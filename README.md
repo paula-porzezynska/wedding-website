@@ -10,7 +10,7 @@ with name:
 > img_xxx.jpg (range of values: 001-591)
 
 ### Link to the website
-You can visit website on: [pobieramysie.pm](http://pobieramysie.pm)
+You can visit website on: [pobieramysie-pm](https://pobieramysie-pm.netlify.app/)
 
 _________________________________________________________________________________________
 **> _PL version_ <**
@@ -24,4 +24,4 @@ o indeksie:
 > img_xxx.jpg (zakres wartości 001-591)
 
 ### Link do strony
-Stronę można wyświetlić pod adresem: [pobieramysie.pm](http://pobieramysie.pm) 
+Stronę można wyświetlić pod adresem: [pobieramysie-pm](https://pobieramysie-pm.netlify.app/) 
